@@ -10,8 +10,7 @@ You can use it as your in-game appearance in Minecraft (Fabric) with the Figura 
 
 ## 📸 Preview
 
-> No images for now (WIP)
-
+>![2025-04-16_14.57.16.png](pics/2025-04-16_14.57.16.png)![2025-04-16_14.57.28.png](pics/2025-04-16_14.57.28.png)
 ---
 
 ## 📦 Installation
